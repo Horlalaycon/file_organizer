@@ -85,3 +85,4 @@ if __name__ == "__main__":
 			print(f"\r ({Fore.RED}Ctrl + c{Style.RESET_ALL}) Aborting in {count}", end="")
 			time.sleep(0.5)
 		quit()
+
